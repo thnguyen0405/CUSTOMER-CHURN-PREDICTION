@@ -1,4 +1,5 @@
 📌 Project Workflow
+
 1️⃣ Data Preprocessing
 
 ✔ Removed unused columns (e.g., customerID)
