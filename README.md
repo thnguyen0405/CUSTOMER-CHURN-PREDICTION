@@ -3,10 +3,15 @@
 1️⃣ Data Preprocessing
 
 ✔ Removed unused columns (e.g., customerID)
+
 ✔ Fixed missing values in TotalCharges
+
 ✔ Converted appropriate features to numerical format
+
 ✔ Identified and handled class imbalance
+
 ✔ Applied Label Encoding to categorical features
+
 ✔ Saved encoders into encoders.pkl for future prediction consistency
 
 
