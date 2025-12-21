@@ -1,4 +1,4 @@
-📌 Project Workflow
+
 
 1️⃣ Data Preprocessing
 
@@ -70,7 +70,7 @@ XGBoost Classifier
 
 Cross-validation (5-fold) is used for comparison.
 
-🏆 Best Performing Model
+Best Performing Model
 
 Random Forest achieves the highest accuracy among default models.
 
@@ -137,8 +137,7 @@ jupyter notebook customer_churn.ipynb
 Run all cells to reproduce the project.
 
 
-
-📦 Saved Files
+ Saved Files
 
 ✔ customer_churn_model.pkl
 
@@ -151,7 +150,7 @@ All label encoders used for categorical columns
 
 
 
-📈 Results
+Results
 
 Random Forest performed best with the highest CV accuracy
 
